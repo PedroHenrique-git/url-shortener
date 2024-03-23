@@ -29,7 +29,6 @@
     "tailwindcss": "npm:tailwindcss@3.4.1",
     "tailwindcss/": "npm:/tailwindcss@3.4.1/",
     "tailwindcss/plugin": "npm:/tailwindcss@3.4.1/plugin.js",
-    "xata": "npm:@xata.io/client@latest",
     "$std/": "https://deno.land/std@0.216.0/"
   },
   "compilerOptions": {
